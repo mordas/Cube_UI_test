@@ -1,0 +1,111 @@
+
+AllClear_Eff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Down_Line
+  rotate: false
+  xy: 2, 489
+  size: 353, 20
+  orig: 353, 20
+  offset: 0, 0
+  index: -1
+Eff_Light
+  rotate: true
+  xy: 357, 359
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+Eff_Line
+  rotate: true
+  xy: 326, 402
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+Shadow_Down
+  rotate: false
+  xy: 2, 396
+  size: 322, 91
+  orig: 322, 91
+  offset: 0, 0
+  index: -1
+Shadow_Up
+  rotate: false
+  xy: 326, 267
+  size: 169, 90
+  orig: 169, 90
+  offset: 0, 0
+  index: -1
+Text_1
+  rotate: false
+  xy: 326, 175
+  size: 169, 90
+  orig: 169, 90
+  offset: 0, 0
+  index: -1
+Text_1_Outine
+  rotate: true
+  xy: 2, 4
+  size: 169, 79
+  orig: 169, 79
+  offset: 0, 0
+  index: -1
+Text_2
+  rotate: false
+  xy: 2, 303
+  size: 322, 91
+  orig: 322, 91
+  offset: 0, 0
+  index: -1
+Text_2_Outine
+  rotate: false
+  xy: 2, 221
+  size: 322, 80
+  orig: 322, 80
+  offset: 0, 0
+  index: -1
+Text_In_Blue
+  rotate: false
+  xy: 2, 178
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+x2_Back
+  rotate: false
+  xy: 83, 9
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+x2_Eff
+  rotate: false
+  xy: 243, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+x2_Eff_Spark
+  rotate: false
+  xy: 326, 470
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+x2_Text
+  rotate: false
+  xy: 80, 178
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+x2_Wave_Eff
+  rotate: true
+  xy: 243, 154
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+LuckyBonus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Light
+  rotate: false
+  xy: 301, 115
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Down_Glow
+  rotate: false
+  xy: 2, 24
+  size: 344, 34
+  orig: 344, 34
+  offset: 0, 0
+  index: -1
+Down_In
+  rotate: true
+  xy: 301, 69
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+Down_Light
+  rotate: false
+  xy: 2, 327
+  size: 337, 80
+  orig: 337, 80
+  offset: 0, 0
+  index: -1
+Down_Line
+  rotate: false
+  xy: 2, 2
+  size: 353, 20
+  orig: 353, 20
+  offset: 0, 0
+  index: -1
+Down_Outline
+  rotate: false
+  xy: 2, 245
+  size: 337, 80
+  orig: 337, 80
+  offset: 0, 0
+  index: -1
+Down_Text
+  rotate: false
+  xy: 2, 409
+  size: 337, 101
+  orig: 337, 101
+  offset: 0, 0
+  index: -1
+Eff_Line
+  rotate: true
+  xy: 399, 154
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+Up_Glow
+  rotate: true
+  xy: 423, 166
+  size: 344, 34
+  orig: 344, 34
+  offset: 0, 0
+  index: -1
+Up_In
+  rotate: false
+  xy: 459, 419
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Up_Light
+  rotate: false
+  xy: 2, 60
+  size: 297, 80
+  orig: 297, 80
+  offset: 0, 0
+  index: -1
+Up_Outline
+  rotate: true
+  xy: 341, 213
+  size: 297, 80
+  orig: 297, 80
+  offset: 0, 0
+  index: -1
+Up_Text
+  rotate: false
+  xy: 2, 142
+  size: 297, 101
+  orig: 297, 101
+  offset: 0, 0
+  index: -1
